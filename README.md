@@ -3,9 +3,5 @@
 heyyy its me
 this is a demo repository
 changes heppen here
-conflict item
-changes are made here
-dvg
-rgerg
-erge
-rge
+again som changes
+the file is edited one time
