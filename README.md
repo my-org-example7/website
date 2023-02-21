@@ -9,3 +9,8 @@ the file is edited one time
 ## Purpose 
 
 this is purpose
+
+
+## Getting Started
+
+to get started with the project ,just 'clone' this repo
